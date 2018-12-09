@@ -1,0 +1,59 @@
+
+*{
+   margin:0px;
+   padding:0px;
+   box-sizing: border-box;
+}
+.portfolio-item-1{
+   margin-bottom: 50px;
+}
+.portfolio-item-2{
+   margin-bottom: 50px;
+}
+.portfolio-item-1-img{
+   height: 60vh;
+   width: 100%;
+   background-image: url('../images/zealandia.png');
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.portfolio-item-info{
+   /* outline: 1px blue solid; */
+   padding-top: 2em;
+   text-align: center;
+}
+.portfolio-item-2-img{
+   height: 60vh;
+   width: 100%;
+   background-image: url('../images/car.png');
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.button{
+   outline: 1px solid black;
+   padding: 1em 2em;
+   /* margin-bottom: 100px; */
+   color: black;
+
+}
+.button:hover{
+   text-decoration: none;
+}
+.project-description{
+   margin-bottom: 2em;
+}
+.site-title-1{
+   Font-Family: 'Rubik', Sans-Serif;
+   Font-Size: 45px;
+}
+.site-title-2{
+   Font-Family: 'Rubik', Sans-Serif;
+   Font-Size: 32px;
+}
+
+.site-subtitle{
+   Font-Family: 'Karla', Sans-Serif;
+Font-Size: 16px;
+}
